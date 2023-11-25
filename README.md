@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Hawdang</h1>
-<h3 align="center">A android & backend developer</h3>
+<h3 align="center">Flutter & Backend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
